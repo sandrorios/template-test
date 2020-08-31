@@ -27,7 +27,7 @@ width: 500px;
     
 }
 
-.para {
+.para p{
     display:flex;
     color: blue;
 }
