@@ -19,7 +19,15 @@ align-items:center;
 justify-content: center;
 
 }
+.container {
+width: 500px;
+    height: 500px;
+    boreder: 1px solid black;
+   margin: 0 auto;
+    
+}
+
 .para {
     display:flex;
-    color: red;
+    color: blue;
 }
